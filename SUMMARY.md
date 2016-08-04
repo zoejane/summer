@@ -3,5 +3,5 @@
 * [Introduction](README.md)
 * [第一个月](201608.md)
 * [笑来专栏](xialai/valuable-wealth01.md)
-   * 《你拥有的最宝贵的财富是什么？》作业
+   * [《你拥有的最宝贵的财富是什么？》作业](xiaolai/300a_ni_yong_you_de_zui_bao_gui_de_cai_fu_shi_shi_.md)
 
